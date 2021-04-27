@@ -51,7 +51,7 @@ According to the GitHub documentation, the API uses data from:
 
 
 ### Report:
-The final report that was submitted for the DAP project can be viewed/downloaded from [this link]().
+The final report that was submitted for the DAP project can be viewed/downloaded from [this link](https://github.com/singhad/Database_and_Analytics_Programming_Project/raw/master/%23Report/DAP_Report.pdf).
 
 
 
